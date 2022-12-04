@@ -1,0 +1,92 @@
+.About {
+    padding-top: 21px;
+    padding-bottom: 50px;
+}
+
+.About .title h1, h2, h3{
+    text-align: center;
+}
+
+.About .title h1{
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.About .title h2 {
+    color: #99c6f3;
+    font-size: 25pxpx;
+}
+
+.About .title h3{
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.email-container a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    width: 100%;
+    height: 50px;
+    left: 151px;
+    top: 469px;
+
+    text-decoration: none;
+    cursor: auto;
+
+}
+
+.email-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    width: 100%;
+
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    margin-top: 16px;
+    margin-left: 35px;
+    margin-right: 35px;
+
+    background: #FFFFFF;
+
+    border: 1px solid #D1D5DB;
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-size: 25px;
+}
+
+.About .title .email-container a .email-button img {
+    width: 25px;
+}
+
+.About .email-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.About .description h1 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 150%;
+    color: #F5F5F5;
+    margin-left: 35px;
+    margin-top: 32px;
+}
+
+.About .description ul li, .About .description p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #DCDCDC;
+
+    margin-left: 35px;
+    margin-right: 35px;
+}

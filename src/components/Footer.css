@@ -1,0 +1,19 @@
+.Footer {
+    display: block;
+    text-align: center;
+    background-color: rgb(6, 9, 13);
+    border-radius: 0px 0px 25px 25px;
+    
+}
+
+.Footer .icons {
+    list-style-type: none;
+    border: none;
+    display: inline-flex;
+    padding-left: 0px;
+}
+
+.Footer .icons li {
+    margin-left: 5px;
+    margin-right: 5px;
+}
